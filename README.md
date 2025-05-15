@@ -82,7 +82,7 @@ The pipeline automatically creates the following table in **PostgreSQL** if it d
 ## Sample Output
 
 ```json
-   Loading into DB: {
+Loading into DB: {
   "latitude": "51.5074",
   "longitude": "-0.1278",
   "temperature": 15.4,
